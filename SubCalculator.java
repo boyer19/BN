@@ -4,6 +4,8 @@ import java.util.Scanner;
 	// Recreated by Matt Boyer 
 	// Oct 12, 2019
 	
+	// This is a test for gitHub2
+	
 	public class SubCalculator
 {
 		  public static void main(String[] args)
